@@ -487,5 +487,5 @@ else:
     st.info("👋 Welcome! Add your first transaction using the sidebar to get started.")
 
 # ============== Footer ==============
-st.markdown("---")
+st.markdown("----")
 st.caption("Personal Finance Tracker | Built with Streamlit")
